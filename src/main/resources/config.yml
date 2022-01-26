@@ -1,0 +1,10 @@
+chat_disabled: true
+chat_disabled_message: 'Chat is disabled!'
+
+teleport_on_fall: true
+teleport_on_fall_below_y: 0
+teleport_on_fall_world: 'world'
+teleport_on_fall_teleport:
+  - 0
+  - 0
+  - 0

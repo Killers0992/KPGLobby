@@ -1,0 +1,10 @@
+name: KpgLobby
+version: '${project.version}'
+main: com.killers0992.kpglobby.KpgLobby
+api-version: 1.17
+
+commands:
+  reload-kpglobby:
+    description: Reload plugin
+    usage: /<command>
+    permission: kpglobby.reload
